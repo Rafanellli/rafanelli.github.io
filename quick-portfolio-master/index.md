@@ -2,9 +2,9 @@
 
 ---
 
-### Category Name 1 
+### Zenius 
 
-[Project SI Data Analytics Zenius](/sample_page)
+[Project SI Data Analytics](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 
